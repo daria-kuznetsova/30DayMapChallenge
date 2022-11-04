@@ -35,8 +35,6 @@ Output:
 version 17
 drop _all
 
-*cd "C:\Users\Daria\Documents\UIOWA\30daymap\nov1"
-
 /*==================================================
               1: Mapping
 ==================================================*/
